@@ -39,7 +39,7 @@ sudo apt-get install cmake gcc-arm-none-eabi libnewlib-arm-none-eabi build-essen
 
 2. Clone the repository 
 ```bash
-git clone https://github.com/aadit-n3rdy/pico-sensrs.git
+git clone https://github.com/aadit-n3rdy/asc-pico-iot-board.git
 cd pico-sensor
 git submodule update --init --recursive
 ```
