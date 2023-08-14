@@ -6,7 +6,7 @@ Amrita School of Computing, Amrita Vishwa Vidyapeetham, Coimbatore.
 ![Amrita Vishwa Vidyapeetham, Coimbatore](https://upload.wikimedia.org/wikipedia/en/f/f8/Amrita-vishwa-vidyapeetham-color-logo.png)
 
 ## Raspberry Pi Pico
-![Raspberry Pi Pico Development Board made by ASC-CSE](assets/pico.jpeg) | ![Raspberry Pi Pico Development Board made by ASC-CSE with better pin headers](assets/with_headers.jpeg) | ![Raspberry Pi Pico connected to PC via USB](assets/with_usb.jpeg)
+![Raspberry Pi Pico Development Board made by ASC-CSE](https://raw.githubusercontent.com/asc-es-iot/asc-pico-iot-board/main/assets/pico.jpeg) | ![Raspberry Pi Pico Development Board made by ASC-CSE with better pin headers](https://raw.githubusercontent.com/asc-es-iot/asc-pico-iot-board/main/assets/with_headers.jpeg) | ![Raspberry Pi Pico connected to PC via USB](https://raw.githubusercontent.com/asc-es-iot/asc-pico-iot-board/main/assets/with_usb.jpeg)
 ----|---|---
 -------
 The Raspberry Pi Pico is a low cost microcontroller. It uses GPIO pins to
